@@ -1,0 +1,65 @@
+body{
+    background-color:#EEEEEE;
+    color:#333333;
+    font-family: monospace;
+}
+header{
+    text-align: center;
+    padding:30px;
+}
+header h1{
+    font-size:35px;
+}
+header p{
+    font-size:20px;
+}
+.img-div{
+    background-color: #fff;
+    width:80%;
+    margin:0 auto;
+}
+.img-div img{
+    max-width: 100%;
+    height:auto;
+    display:block;
+    margin:0 auto;
+}
+figcaption{
+    font-size: 16px;
+    text-align: center;
+    padding:20px;
+}
+.tribute-info{
+    width:80%;
+    margin:0 auto;
+    padding: 20px 0;
+}
+.tribute-info h2{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.tribute-info ul li{
+    font-size: 16px;
+    line-height: 1.5rem;
+    margin:5px 0;
+}
+.quote{
+    width:70%;
+    margin:0 auto;
+}
+.quote p{
+    font-size: 16px;
+    font-style: italic;
+    padding:10px 0;
+}
+footer{
+    text-align: center;
+    font-size: 25px;
+    padding:20px;
+    width:80%;
+    margin:0 auto;
+}
+footer a{
+    text-decoration: none;
+}
